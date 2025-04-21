@@ -1,0 +1,1 @@
+start "" /min "C:\Users\Gabriel\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --process "1002-AFIP_Descarga_MisComprobantes" --input "{'in_fullpath_Excel_parametros':'G:\.shortcut-targets-by-id\1nzy_AzTxQTU6lIz6l0qxfJVupquYNTRj\ElsaContador\1002-Mis Comprobantes\Parametros - M.xlsx'}"
